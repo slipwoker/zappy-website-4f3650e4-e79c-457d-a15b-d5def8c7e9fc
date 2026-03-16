@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+שירות הנפקת מסמכים רשמיים מהרשויות בישראל ובחו״ל. אנחנו מטפלים בכל התהליך הבюרוקרטי עבורכם - מקצועי, דיסקרטי ומהיר. חסכו זמן וטרחה!
+
+### תהליך
+https://example.com/process
+גלו איך אנחנו מנפיקים עבורכם מסמכים רשמיים בשלושה שלבים פשוטים. תהליך שקוף ומקצועי שחוסך לכם ביקורים מיותרים ברשויות. התחילו עכשיו!
+
+### שאלות נפוצות
+https://example.com/faq
+כל מה שרציתם לדעת על איתור והנפקת מסמכים מהרשות האוכלוסין ורשויות נוספות. תשובות מפורטות לשאלות הנפוצות ביותר. קבלו מידע מקצועי עכשיו!
+
+### צור קשר
+https://example.com/contact
+פנו אלינו עכשיו ונטפל בהנפקת המסמכים הרשמיים שלכם במהירות ובמקצועיות. שירות אישי ודיסקרטי לכל סוגי המסמכים. התייעצות ללא התחייבות!
+
+### Products
+https://example.com/products
+המוצרים שלנו - Docs Bridge
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Docs Bridge
+
+### Category
+https://example.com/category/:slug
+מוצרים - Docs Bridge
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
